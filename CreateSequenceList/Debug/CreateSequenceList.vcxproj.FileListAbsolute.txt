@@ -1,0 +1,2 @@
+E:\git\ds-\CreateSequenceList\Debug\CreateSequenceList.exe
+E:\git\ds-\CreateSequenceList\Debug\CreateSequenceList.pdb
