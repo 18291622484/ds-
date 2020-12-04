@@ -1,3 +1,6 @@
 ﻿  CreateSequenceList.c
-E:\git\ds-\CreateSequenceList\CreateSequenceList.c(65,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\git\ds-\CreateSequenceList\CreateSequenceList.c(88,15): warning C4018: “<”: 有符号/无符号不匹配
+E:\git\ds-\CreateSequenceList\CreateSequenceList.c(118,13): warning C4018: “<”: 有符号/无符号不匹配
+E:\git\ds-\CreateSequenceList\CreateSequenceList.c(131,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\git\ds-\CreateSequenceList\CreateSequenceList.c(159,20): warning C4018: “<”: 有符号/无符号不匹配
   CreateSequenceList.vcxproj -> E:\git\ds-\CreateSequenceList\Debug\CreateSequenceList.exe
