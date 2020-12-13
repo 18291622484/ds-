@@ -82,7 +82,7 @@ void ListPopBack(ListHead* list) {
 	}
 	//如果不止一个数据，那就修改倒数第二个_next指针指向
 	else {
-		temp = NULL;
+		temp->_next = NULL;
 	}
 }
 
@@ -117,7 +117,7 @@ void ListPopFront(ListHead* list) {
 	//释放头指针
 	free(node);
 	//将头指针指向原来的第二个节点，若原来只有一个节点，那么原来的第二个节点为NULL，所以正好将头指针指向NULL
-	node = temp;
+	list->_head = temp;
 }
 
 // 单链表查找
