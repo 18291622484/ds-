@@ -1,0 +1,29 @@
+﻿  CreateLinkedList(Header,Bidirectional,Loop).c
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(13,55): warning C4133: “=”: 从“ListNode *”到“Listnode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(34,55): warning C4133: “==”: 从“ListNode *”到“Listnode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(42,21): warning C4133: “=”: 从“Listnode *”到“ListNode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(38,1): warning C4133: “初始化”: 从“Listnode *”到“ListNode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(57,23): warning C4133: “=”: 从“ListNode *”到“Listnode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(61,30): warning C4133: “=”: 从“ListNode *”到“Listnode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(71,55): warning C4133: “==”: 从“ListNode *”到“Listnode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(79,31): warning C4133: “=”: 从“ListNode *”到“Listnode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(96,27): warning C4133: “=”: 从“ListNode *”到“Listnode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(98,20): warning C4133: “=”: 从“ListNode *”到“Listnode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(94,1): warning C4133: “初始化”: 从“Listnode *”到“ListNode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(108,55): warning C4133: “==”: 从“ListNode *”到“Listnode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(116,27): warning C4133: “=”: 从“ListNode *”到“Listnode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(111,1): warning C4133: “初始化”: 从“Listnode *”到“ListNode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(112,1): warning C4133: “初始化”: 从“Listnode *”到“ListNode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(130,23): warning C4133: “=”: 从“ListNode *”到“Listnode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(132,22): warning C4133: “=”: 从“ListNode *”到“Listnode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(145,20): warning C4133: “=”: 从“ListNode *”到“Listnode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(141,1): warning C4133: “初始化”: 从“Listnode *”到“ListNode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(152,55): warning C4133: “==”: 从“ListNode *”到“Listnode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(160,21): warning C4133: “=”: 从“Listnode *”到“ListNode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(155,1): warning C4133: “初始化”: 从“Listnode *”到“ListNode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(167,55): warning C4133: “==”: 从“ListNode *”到“Listnode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(174,21): warning C4133: “=”: 从“Listnode *”到“ListNode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(170,1): warning C4133: “初始化”: 从“Listnode *”到“ListNode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(192,1): warning C4133: “初始化”: 从“Listnode *”到“ListNode *”的类型不兼容
+E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\CreateLinkedList(Header,Bidirectional,Loop).c(162): warning C4715: “SListFind”: 不是所有的控件路径都返回值
+  CreateLinkedList(Header,Bidirectional,Loop).vcxproj -> E:\git\ds-\CreateLinkedList(Header,Bidirectional,Loop)\Debug\CreateLinkedList(Header,Bidirectional,Loop).exe
