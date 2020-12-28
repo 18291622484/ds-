@@ -1,0 +1,2 @@
+E:\git\ds-\CreateQueue\Debug\CreateQueue.exe
+E:\git\ds-\CreateQueue\Debug\CreateQueue.pdb
