@@ -1,0 +1,2 @@
+E:\git\ds-\CreateLoopQueue\Debug\CreateLoopQueue.exe
+E:\git\ds-\CreateLoopQueue\Debug\CreateLoopQueue.pdb

@@ -1,0 +1,9 @@
+﻿  CreateLoopQueue.c
+E:\git\ds-\CreateLoopQueue\CreateLoopQueue.c(125,49): warning C4133: “=”: 从“MyQueue *”到“MYQueue *”的类型不兼容
+E:\git\ds-\CreateLoopQueue\CreateLoopQueue.c(126,39): warning C4133: “=”: 从“MYQueue *”到“MyQueue *”的类型不兼容
+E:\git\ds-\CreateLoopQueue\CreateLoopQueue.c(146,34): warning C4133: “=”: 从“MYQueue *”到“MyQueue *”的类型不兼容
+E:\git\ds-\CreateLoopQueue\CreateLoopQueue.c(177,17): warning C4098: “myCircularQueueIsFull1”:“void”函数返回值
+E:\git\ds-\CreateLoopQueue\CreateLoopQueue.c(181,17): warning C4098: “myCircularQueueIsFull1”:“void”函数返回值
+E:\git\ds-\CreateLoopQueue\CreateLoopQueue.c(183,13): warning C4098: “myCircularQueueIsFull1”:“void”函数返回值
+E:\git\ds-\CreateLoopQueue\CreateLoopQueue.c(195,34): warning C4133: “=”: 从“MYQueue *”到“MyQueue *”的类型不兼容
+  CreateLoopQueue.vcxproj -> E:\git\ds-\CreateLoopQueue\Debug\CreateLoopQueue.exe
